@@ -1,4 +1,9 @@
-h1 {text-align: center;}
 h1 {
-    color: red;
+    /* color: red; */
+    color: blue;
+    text-align: center;
+}
+p {
+    text-align: center;
+    margin: 0px 50px 0px 50px;
 }
